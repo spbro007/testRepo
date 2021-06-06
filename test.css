@@ -2,6 +2,11 @@
 body{
     font-family: 'Baloo Tammudu 2', cursive;
 }
-h1,h2,p{
-    margin:1em;
+h1,h2{
+    margin:3vw;
+    text-align: center;
 } 
+p{
+    margin:3vw;
+    text-align: center;
+}
